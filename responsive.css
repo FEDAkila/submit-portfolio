@@ -1,0 +1,24 @@
+@media (max-width:400px){
+  .ali{
+	   padding:10px!important	;
+   }
+  header{
+	
+	    position: static!important;
+   
+  
+}
+}
+
+@media(min-width:400px) and (max-width:992px){
+   .ali{
+	   padding:10px!important	;
+   }
+    header{
+	
+	    position: static!important;
+   
+  
+}
+   
+}
